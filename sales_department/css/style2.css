@@ -2196,7 +2196,6 @@ footer {
   }
   .one__title p .color-bold{
     text-align: center;
-    display:block;
   }
   .one__title p .you-can-try:after{
     content: '1';
