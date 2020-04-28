@@ -1,1 +1,0 @@
-# danil-baranovskyi.github.io
